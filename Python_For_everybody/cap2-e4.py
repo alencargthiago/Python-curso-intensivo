@@ -1,0 +1,16 @@
+ #Suponha que executamos as seguintes declaração por atribuição:
+#Largura = 17
+#Altura = 12.0
+
+#Para cada uma das expressões a seguir, escreva o valor da expressão e o tipo (do valor da expressão).
+#1. Largura//2
+#2. Largura/2.0
+#3. Altura/3
+#4. 1 + 2 * 5
+
+largura=17
+altura= 12.0
+print(largura//2) # é igual a 8
+print (largura/2.0) #é igual a 8.5
+print(altura/3) #é igual a 4.0
+print(1+2*5) #é igual a 11
